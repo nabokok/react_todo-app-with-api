@@ -7,6 +7,9 @@ and implement the ability to toggle and rename todos.
 
 > Here is [the working example](https://mate-academy.github.io/react_todo-app-with-api/)
 
+## DEMO
+https://nabokok.github.io/react_todo-app-with-api/
+
 ## Toggling a todo status
 
 Toggle the `completed` status on `TodoStatus` change:
